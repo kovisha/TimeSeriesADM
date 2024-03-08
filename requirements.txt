@@ -5,3 +5,4 @@ matplotlib
 plotly
 scikit-learn
 statsmodels
+holidays
